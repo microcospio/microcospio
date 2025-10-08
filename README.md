@@ -10,7 +10,9 @@
 
 ###
 
-<p align="left">💫 Coding ever since 2024<br>🌐 Interested in Web Development, relational databases and software<br>⭐Native in the brazilian portuguese language and advanced in the english language</p>
+<p align="left">💫 Coding since 2024<br>
+🌐 Interested in Web Development, relational databases, and software engineering<br>
+⭐ Native Brazilian Portuguese speaker and advanced in English</p>
 
 ###
 
