@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">I'm microcospio, a student of System Developing with a passion for the area</p>
+<p align="left">I'm microcospio, a student of System Development with a passion for the area</p>
 
 ###
 
